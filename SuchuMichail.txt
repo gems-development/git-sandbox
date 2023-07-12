@@ -1,1 +1,1 @@
-i hate git extension
+git extension is a big problem
